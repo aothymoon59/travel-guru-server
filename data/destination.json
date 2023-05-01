@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "description": "Cox's Bazar is a popular beach town in Bangladesh, known for its long stretch of sandy beach, scenic views, and water sports activities.",
+    "image": "https://images.unsplash.com/photo-1616305375646-a3e95c5bdc82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3VuZGFyYmFuc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Sundarbans",
+    "description": "Sundarbans is the largest mangrove forest in the world, home to the Bengal tiger, spotted deer, crocodiles, and a variety of bird species.",
+    "image": "https://images.unsplash.com/photo-1607441078533-77ba814b1e5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZGFyYmFuc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Srimangal",
+    "description": "Srimangal is a small town in Bangladesh known for its tea gardens, scenic views, and wildlife sanctuaries.",
+    "image": "https://images.unsplash.com/photo-1677950275757-0460cab1df08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c3JpbWFuZ2FsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Bandarban",
+    "description": "Bandarban is a scenic hill district in Bangladesh known for its hiking trails, waterfalls, and scenic views.",
+    "image": "https://images.unsplash.com/photo-1631642386603-5618fa038ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFuZGFyYmFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Sajek",
+    "description": "Sajek is a hill station in the Rangamati Hill District of Bangladesh, known for its scenic views, trekking, and indigenous culture.",
+    "image": "https://images.unsplash.com/photo-1647456218646-e8ed1179e20f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNhamVrJTIwdmFsbGV5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Kuakata",
+    "description": "Kuakata is a seaside town in southern Bangladesh, known for its panoramic sea views, sandy beach, and sunsets.",
+    "image": "https://images.unsplash.com/photo-1611339808473-58dbdfd583a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8a3Vha2F0YSUyMHNlYSUyMGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  }
+]

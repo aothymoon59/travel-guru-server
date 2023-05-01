@@ -1,0 +1,248 @@
+[
+  {
+    "id": "ChIJKaOv-1nHQTcRy64sMTsSOsQ",
+    "name": "Pan Pacific Sonargaon Cox's Bazar",
+    "place_id": 1,
+    "image": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y294c2JhemFyJTIwaG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 300,
+    "rating": 4.5,
+    "room_facility": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "hotel_facility": ["restaurant", "swimming pool", "spa"]
+  },
+  {
+    "id": "ChIJKaOv-2nHQTcRy64sMTsSOsR",
+    "name": "Long Beach Hotel Cox's Bazar",
+    "place_id": 1,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y294c2JhemFyJTIwaG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 250,
+    "rating": 4,
+    "room_facility": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "hotel_facility": ["restaurant", "swimming pool", "gym"]
+  },
+  {
+    "id": "ChIJKaOv-3nHQTcRy64sMTsSOsS",
+    "name": "Hotel The Cox Today",
+    "place_id": 1,
+    "image": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y294c2JhemFyJTIwaG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 150,
+    "rating": 3.5,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "swimming pool", "spa"]
+  },
+
+  {
+    "id": "ChIJKaOv-4nHQTcRy64sMTsSOsT",
+    "name": "Sundarban Tiger Camp",
+    "place_id": 2,
+    "image": "https://images.unsplash.com/photo-1529290130-4ca3753253ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 200,
+    "rating": 4.5,
+    "room_facility": { "guests": 4, "bedrooms": 2, "beds": 2, "baths": 2 },
+    "hotel_facility": ["restaurant", "bonfire", "jungle safari"]
+  },
+  {
+    "id": "ChIJKaOv-5nHQTcRy64sMTsSOsU",
+    "name": "Sundarban Jungle Camp",
+    "place_id": 2,
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 150,
+    "rating": 4,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "jungle safari"]
+  },
+  {
+    "id": "ChIJKaOv-6nHQTcRy64sMTsSOsV",
+    "name": "Sundarban Royal Eco Resort",
+    "place_id": 2,
+    "image": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 100,
+    "rating": 4.5,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "swimming pool", "jungle safari"]
+  },
+  {
+    "id": "ChIJKaOv-7nHQTcRy64sMTsSOsW",
+    "name": "Grand Sultan Tea Resort & Golf",
+    "place_id": 3,
+    "image": "https://images.unsplash.com/photo-1439130490301-25e322d88054?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 300,
+    "rating": 4.8,
+    "room_facility": { "guests": 4, "bedrooms": 2, "beds": 2, "baths": 2 },
+    "hotel_facility": ["golf course", "spa", "restaurant"]
+  },
+  {
+    "id": "ChIJKaOv-8nHQTcRy64sMTsSOsX",
+    "name": "Tea Heaven Resort",
+    "place_id": 3,
+    "image": "https://images.unsplash.com/photo-1477120128765-a0528148fed2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 100,
+    "rating": 4.2,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden"]
+  },
+  {
+    "id": "ChIJKaOv-9nHQTcRy64sMTsSOsY",
+    "name": "Green Hill Guest House",
+    "place_id": 3,
+    "image": "https://images.unsplash.com/photo-1541971875076-8f970d573be6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 50,
+    "rating": 3.5,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden"]
+  },
+  {
+    "id": "ChIJKaOv-10nHQTcRy64sMTsSOsZ",
+    "name": "Hill View Resort",
+    "place_id": 4,
+    "image": "https://images.unsplash.com/photo-1468824357306-a439d58ccb1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 200,
+    "rating": 4.5,
+    "room_facility": { "guests": 4, "bedrooms": 2, "beds": 2, "baths": 2 },
+    "hotel_facility": ["restaurant", "swimming pool", "garden"]
+  },
+  {
+    "id": "ChIJKaOv-11nHQTcRy64sMTsSOtA",
+    "name": "Sairu Hill Resorts",
+    "place_id": 4,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 150,
+    "rating": 4.2,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden", "spa"]
+  },
+  {
+    "id": "ChIJKaOv-12nHQTcRy64sMTsSOtB",
+    "name": "Meghla Resort",
+    "place_id": 4,
+    "image": "https://images.unsplash.com/photo-1498503182468-3b51cbb6cb24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 100,
+    "rating": 3.8,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "swimming pool", "garden"]
+  },
+  {
+    "id": "ChIJKaOv-13nHQTcRy64sMTsSOtC",
+    "name": "Pebble Stone Sea Resort",
+    "place_id": 5,
+    "image": "https://images.unsplash.com/photo-1445546857131-5fc39d1c51f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 300,
+    "rating": 4.8,
+    "room_facility": { "guests": 4, "bedrooms": 2, "beds": 2, "baths": 2 },
+    "hotel_facility": ["restaurant", "swimming pool", "garden", "spa"]
+  },
+  {
+    "id": "ChIJKaOv-14nHQTcRy64sMTsSOtD",
+    "name": "Megh Machang Eco Resort",
+    "place_id": 5,
+    "image": "https://images.unsplash.com/photo-1498503403619-e39e4ff390fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 200,
+    "rating": 4.2,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden", "bonfire"]
+  },
+  {
+    "id": "ChIJKaOv-15nHQTcRy64sMTsSOtE",
+    "name": "Cloud Cottage Sajek",
+    "place_id": 5,
+    "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 150,
+    "rating": 3.9,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden"]
+  },
+  {
+    "id": "ChIJKaOv-16nHQTcRy64sMTsSOtF",
+    "name": "The Kuakata Resort",
+    "place_id": 6,
+    "image": "https://images.unsplash.com/photo-1501117716987-c8c394bb29df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 400,
+    "rating": 4.5,
+    "room_facility": { "guests": 4, "bedrooms": 2, "beds": 2, "baths": 2 },
+    "hotel_facility": ["restaurant", "swimming pool", "garden", "spa"]
+  },
+  {
+    "id": "ChIJKaOv-17nHQTcRy64sMTsSOtG",
+    "name": "Panorama Resort",
+    "place_id": 6,
+    "image": "https://images.unsplash.com/photo-1490122417551-6ee9691429d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 300,
+    "rating": 4.2,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "garden", "beach access"]
+  },
+  {
+    "id": "ChIJKaOv-18nHQTcRy64sMTsSOtH",
+    "name": "Beach View Resort",
+    "place_id": 6,
+    "image": "https://images.unsplash.com/photo-1506059612708-99d6c258160e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGNveHNiYXphciUyMGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "cost_per_night": 200,
+    "rating": 3.9,
+    "room_facility": {
+      "guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "baths": 1
+    },
+    "hotel_facility": ["restaurant", "beach access"]
+  }
+]
